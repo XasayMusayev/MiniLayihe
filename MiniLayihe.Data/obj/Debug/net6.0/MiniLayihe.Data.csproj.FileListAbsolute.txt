@@ -1,0 +1,15 @@
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\bin\Debug\net6.0\MiniLayihe.Data.deps.json
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\bin\Debug\net6.0\MiniLayihe.Data.dll
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\bin\Debug\net6.0\MiniLayihe.Data.pdb
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\bin\Debug\net6.0\MiniLayihe.Core.dll
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\bin\Debug\net6.0\MiniLayihe.Core.pdb
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\MiniLayihe.Data.csproj.AssemblyReference.cache
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\MiniLayihe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\MiniLayihe.Data.AssemblyInfoInputs.cache
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\MiniLayihe.Data.AssemblyInfo.cs
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\MiniLayihe.Data.csproj.CoreCompileInputs.cache
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\MiniLayihe.Data.csproj.CopyComplete
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\MiniLayihe.Data.dll
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\refint\MiniLayihe.Data.dll
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\MiniLayihe.Data.pdb
+C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Data\obj\Debug\net6.0\ref\MiniLayihe.Data.dll

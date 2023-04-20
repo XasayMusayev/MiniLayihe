@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MiniLayihe.App/1.0.0": {
+        "dependencies": {
+          "MiniLayihe.Data": "1.0.0"
+        },
+        "runtime": {
+          "MiniLayihe.App.dll": {}
+        }
+      },
+      "MiniLayihe.Core/1.0.0": {
+        "runtime": {
+          "MiniLayihe.Core.dll": {}
+        }
+      },
+      "MiniLayihe.Data/1.0.0": {
+        "dependencies": {
+          "MiniLayihe.Core": "1.0.0"
+        },
+        "runtime": {
+          "MiniLayihe.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniLayihe.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniLayihe.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniLayihe.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
