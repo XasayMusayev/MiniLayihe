@@ -14,7 +14,7 @@ namespace MiniLayihe.App.Services.Implementations
     {
         private readonly EmployeeRepository _employees=new EmployeeRepository();
 
-        public DateTime CreatedDate { get; private set; }
+
 
         public void Create()
         {
@@ -73,9 +73,11 @@ namespace MiniLayihe.App.Services.Implementations
                     
             }
             employee.Position = position;
-            CreatedDate = DateTime.Now;
+            employee.CreatedDate = DateTime.Now;
+
             
             _employees.Create(employee);
+            Console.WriteLine("Employee yaradildi");
             
         }
 
@@ -89,6 +91,7 @@ namespace MiniLayihe.App.Services.Implementations
             if (employee==null)
             {
                 Console.WriteLine("Employee not found");
+                int.TryParse(Console.ReadLine(), out  id);
             }
             else
             {
@@ -119,27 +122,89 @@ namespace MiniLayihe.App.Services.Implementations
             {
                 Console.WriteLine(employee);
             }
+
+
+
         }
 
         public void Update()
         {
             Console.WriteLine("Add id");
-            int id = int.Parse(Console.ReadLine());
+            int.TryParse(Console.ReadLine(), out int id);
             Employee employee = _employees.GetById(id);
 
-            if (employee == null)
+            if (_employees.GetAll().Count() > 0)
             {
-                Console.WriteLine("Employee not found");
+                if (employee == null)
+                {
+                    Console.WriteLine("Employee not found");
+                    Console.WriteLine("Add id*");
+                    int.TryParse(Console.ReadLine(), out id);
+                }
+
+                else
+                {
+                    Console.WriteLine("Add name");
+                    string name = Console.ReadLine();
+                    while (string.IsNullOrWhiteSpace(name))
+                    {
+                        Console.WriteLine("Add name*");
+                        name = Console.ReadLine();
+                    }
+                    employee.Name = name;
+                    Console.WriteLine("Add surname");
+                    string surname = Console.ReadLine();
+                    while (string.IsNullOrWhiteSpace(surname))
+                    {
+                        Console.WriteLine("Add surname*");
+                        surname = Console.ReadLine();
+                    }
+                    employee.Surname = surname;
+                    Console.WriteLine("Add price");
+
+                    double.TryParse(Console.ReadLine(), out double salary);
+                    while (salary <= 0)
+                    {
+                        Console.WriteLine("Salary not true");
+                        Console.WriteLine("Add price*");
+                        double.TryParse(Console.ReadLine(), out salary);
+                    }
+
+                    employee.Salary = salary;
+                    Console.WriteLine("Add position");
+                newAgain:
+                    Console.WriteLine("-Add position-");
+                    Console.WriteLine("1. " + Position.Backend);
+                    Console.WriteLine("2. " + Position.Frontend);
+                    Console.WriteLine("3. " + Position.Fullstack);
+
+                    string result = Console.ReadLine();
+                    Position position;
+
+                    switch (result)
+                    {
+                        case "1":
+                            position = Position.Backend;
+                            break;
+                        case "2":
+                            position = Position.Frontend;
+                            break;
+                        case "3":
+                            position = Position.Fullstack;
+                            break;
+                        default:
+                            Console.WriteLine("Add valid option*");
+                            goto newAgain;
+
+                    }
+                    Console.WriteLine("Employee updated");
+                    employee.Position = position;
+                }
             }
             else
             {
-                Console.WriteLine("Add name");
-                employee.Name = Console.ReadLine();
-                Console.WriteLine("Add surname");
-                employee.Surname = Console.ReadLine();
-                Console.WriteLine("Add price");
-                employee.Salary = double.Parse(Console.ReadLine());
-                Console.WriteLine("Add position");
+               
+                Console.WriteLine("Employye is epmty");
             }
 
         }

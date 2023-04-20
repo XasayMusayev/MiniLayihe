@@ -18,3 +18,23 @@ C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.App\obj\Debug\net6.0\re
 C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.pdb
 C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.genruntimeconfig.cache
 C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.App\obj\Debug\net6.0\ref\MiniLayihe.App.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\bin\Debug\net6.0\MiniLayihe.App.exe
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\bin\Debug\net6.0\MiniLayihe.App.deps.json
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\bin\Debug\net6.0\MiniLayihe.App.runtimeconfig.json
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\bin\Debug\net6.0\MiniLayihe.App.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\bin\Debug\net6.0\MiniLayihe.App.pdb
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\bin\Debug\net6.0\MiniLayihe.Core.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\bin\Debug\net6.0\MiniLayihe.Data.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\bin\Debug\net6.0\MiniLayihe.Data.pdb
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\bin\Debug\net6.0\MiniLayihe.Core.pdb
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.csproj.AssemblyReference.cache
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.AssemblyInfoInputs.cache
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.AssemblyInfo.cs
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.csproj.CoreCompileInputs.cache
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.csproj.CopyComplete
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\refint\MiniLayihe.App.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.pdb
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\MiniLayihe.App.genruntimeconfig.cache
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.App\obj\Debug\net6.0\ref\MiniLayihe.App.dll

@@ -10,3 +10,15 @@ C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Core\obj\Debug\net6.0\M
 C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Core\obj\Debug\net6.0\refint\MiniLayihe.Core.dll
 C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Core\obj\Debug\net6.0\MiniLayihe.Core.pdb
 C:\Users\Xasay Musayev\Desktop\MiniLayihe.App\MiniLayihe.Core\obj\Debug\net6.0\ref\MiniLayihe.Core.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\bin\Debug\net6.0\MiniLayihe.Core.deps.json
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\bin\Debug\net6.0\MiniLayihe.Core.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\bin\Debug\net6.0\MiniLayihe.Core.pdb
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\obj\Debug\net6.0\MiniLayihe.Core.csproj.AssemblyReference.cache
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\obj\Debug\net6.0\MiniLayihe.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\obj\Debug\net6.0\MiniLayihe.Core.AssemblyInfoInputs.cache
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\obj\Debug\net6.0\MiniLayihe.Core.AssemblyInfo.cs
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\obj\Debug\net6.0\MiniLayihe.Core.csproj.CoreCompileInputs.cache
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\obj\Debug\net6.0\MiniLayihe.Core.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\obj\Debug\net6.0\refint\MiniLayihe.Core.dll
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\obj\Debug\net6.0\MiniLayihe.Core.pdb
+C:\Users\khasayum\Source\Repos\MiniLayihe\MiniLayihe.Core\obj\Debug\net6.0\ref\MiniLayihe.Core.dll
